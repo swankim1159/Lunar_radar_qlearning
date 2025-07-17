@@ -16,3 +16,6 @@ Memory size: 100K / Number of steps for update : 4
 
 # What I learned
 How to train agent well with memory buffer.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
