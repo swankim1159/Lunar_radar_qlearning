@@ -1,0 +1,44 @@
++# Byte-compiled / optimized / DLL files
++__pycache__/
++*.py[cod]
++*$py.class
++
++# IPython checkpoints
++.ipynb_checkpoints/
++
++# Distribution / packaging
++build/
++dist/
++*.egg-info/
++.eggs/
++
++# Installer logs
++pip-log.txt
++pip-delete-this-directory.txt
++
++# Unit test / coverage reports
++htmlcov/
++.tox/
++.nox/
++.pytest_cache/
++.coverage
++
++# Virtual environments
++venv/
++ENV/
++.env
++.venv
++
++# Mac OS
++.DS_Store
++
++# Other
++*.pyc
++*.pyo
++*.pyd
++*.so
++
++# Editor directories and files
++.vscode/
++.idea/
++
